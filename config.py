@@ -17,7 +17,6 @@ FEEDS = [
     ("IPO", "Moneycontrol IPO", "https://www.moneycontrol.com/rss/iponews.xml"),
 
     # --- Global markets ---
-    ("Global", "Reuters Business", "https://feeds.reuters.com/reuters/businessNews"),
     ("Global", "CNBC Finance",     "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"),
 ]
 
