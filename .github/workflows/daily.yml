@@ -4,7 +4,8 @@ on:
   schedule:
   # GitHub cron is in UTC. 01:45 UTC = 07:15 AM IST.
   # Note: scheduled runs can be delayed a few minutes under load — that's normal.
-    - cron: "45 1 * * *"
+    # - cron: "45 1 * * *"
+    - cron: "17 2 * * *"
   workflow_dispatch:
 
 jobs:
